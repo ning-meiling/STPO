@@ -1,0 +1,3 @@
+,win_rate,standard_error,mode,avg_length,n_wins,n_wins_base,n_draws,n_total,discrete_win_rate,length_controlled_winrate,lc_standard_error
+mipo-mistral-instruct-v0.2,22.956377819748862,1.347888795731353,community,1323,178,627,0,805,22.111801242236027,32.977126057104535,0.4529227293326744
+mipo-mistral-instruct,10.227893538085787,1.0003371379943187,community,1213,83,719,2,804,10.44776119402985,16.648228307062894,0.39063071211778544

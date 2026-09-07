@@ -1,0 +1,17 @@
+{
+  "num_requested": 977,
+  "num_valid": 977,
+  "before_mean": -0.13482468740722905,
+  "after_mean": 0.2616236329444721,
+  "delta_mean": 0.3964483203517012,
+  "before_std": 2.1067014245572633,
+  "after_std": 1.7214593989881066,
+  "delta_std": 1.4212604237970587,
+  "before_median": -0.09418869018554688,
+  "after_median": 0.24601364135742188,
+  "delta_median": 0.37694263458251953,
+  "improved_count": 628,
+  "improved_ratio": 0.6427840327533265,
+  "min_delta": -6.598546504974365,
+  "max_delta": 5.62599515914917
+}
